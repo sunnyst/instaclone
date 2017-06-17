@@ -1,0 +1,17 @@
+body{
+    background-color:#fafafa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+.u-relative-container{
+    position: relative;
+}
