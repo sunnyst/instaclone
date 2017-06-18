@@ -1,9 +1,33 @@
-	<style>
-	.footer{display: flex;
-    justify-content: space-between;
-    
 
-	}
+
+		.Footer {
+		display: flex;
+    	justify-content: space-between;
+    	align-items: center;
+    	max-width: 900px;
+    	margin: 0 auto;
+    	width: 90%;
+    	font-size: 14px;
+
+    }
+
+
+
+    	.Footer__Navigation {
+    	padding-right: 15px;
+    	}
+
+    	.Navigation__List{
+    		display: flex;
+    		padding-right: 15px;
+    	}
+
+
+    	.Navigation__Item{
+    		padding-right: 15px;
+
+
+
+    	}
 			
 					
-				</style>
